@@ -1,7 +1,7 @@
 <h1>A ls clone written in golang</h1>
 <br>
 <h1>Requirements</h1>
-Golang
+Golang<br>
 Git
 <br>
 <h1>Setup Guide</h1>
