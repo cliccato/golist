@@ -1,4 +1,4 @@
-<h1>A ls clone written in golang</h1>
+<h1>ls clone written in golang</h1>
 <br>
 <h1>Requirements</h1>
 Golang<br>
