@@ -8,7 +8,7 @@ Git
 
 ```
 
-git clone https://github.com/iltiaaa/golist.git
+git clone https://github.com/cliccato/golist.git
 cd golist
 chmod +x setup.sh
 ./setup.sh
