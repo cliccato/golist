@@ -32,7 +32,7 @@ func main() {
 
     files, err := ioutil.ReadDir(dir)
     if err != nil {
-        log.Fatalf("Error no such directory: %v", err)
+        log.Fatal(err)
     }
 
     for _, file := range files {
