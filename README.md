@@ -4,7 +4,7 @@
 Golang<br>
 Git
 <br>
-<h1>Setup Guide</h1>
+<h1>Setup</h1>
 
 ```
 
