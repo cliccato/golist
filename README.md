@@ -30,3 +30,14 @@ Specific path
 list /path/to/dir
 
 ```
+
+<h1>Uninstall</h1>
+
+```
+
+chmod +x uninstall
+./uninstall
+
+```
+
+this command not remove golist directory
