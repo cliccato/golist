@@ -48,17 +48,12 @@ func main() {
 	    }
 
             if cdir.IsDir() {
-		fmt.Printf(string(colorBlue))
-		fmt.Printf(fname)
-                for j=0; j<(max_len-len(fname)); j++ {
-		    fmt.Printf(" ")
-		}
-		fmt.Printf(string(colorReset))
-	    }else {
-                fmt.Printf(fname)
-		for j=0; j<(max_len-len(fname)); j++ {
-		    fmt.Printf(" ")
-                }
+                fmt.Printf(string(colorBlue))
+                fmt.Printf("%s\t", fname)
+
+                fmt.Printf(string(colorReset))
+            }else {
+                fmt.Printf("%s\t", fname)
             }
         line++
         }
