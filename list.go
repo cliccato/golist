@@ -19,7 +19,6 @@ func main() {
 
     var dir = "." 
     var line = 0
-    var j int
     var narg = len(os.Args[1:])
     log.SetFlags(0)
 
