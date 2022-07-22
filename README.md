@@ -10,8 +10,8 @@ Git
 
 git clone https://github.com/cliccato/golist.git
 cd golist
-chmod +x install
-./install
+chmod +x setup
+./setup
 
 ```
 
