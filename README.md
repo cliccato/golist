@@ -40,4 +40,3 @@ chmod +x uninstall
 
 ```
 
-this command not remove golist directory
